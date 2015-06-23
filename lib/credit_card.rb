@@ -11,6 +11,6 @@ class CreditCard
   end
 
   def payment(amount)
-    @balance -= amount
+    @balance -= amoun
   end
 end
